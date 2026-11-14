@@ -1,0 +1,6 @@
+{
+  "name": "Hóa 12 KNTT - Ôn Tập Chương 3 (Bài 8 - 11) & AI Gia Sư",
+  "description": "Ứng dụng học tập Hóa học 12 Kết nối tri thức: Bài 8 (Amine), Bài 9 (Amino acid & peptide), Bài 10 (Protein & enzyme), Bài 11 (Ôn tập chương 3) với trọng tâm lý thuyết, ngân hàng 60+ câu hỏi đa dạng (trắc nghiệm, đúng/sai, trả lời ngắn) có lời giải chi tiết và Gia sư AI Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
